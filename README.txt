@@ -1,4 +1,7 @@
-Ronald Queensen
+This is a neural network designed to classify hand-written digits. The test data was
+provided by the class via a kaggle contest, I have had to remove the test data
+due to school IP rules. All of this code was written by myself, so by school rules it
+is my IP to make public. 
 
 All of the code is contained in main.py. It uses libraries from Anaconda 2.4.1, 
 using the latest version of Anaconda causes the loadmat("training_data") to crash.
