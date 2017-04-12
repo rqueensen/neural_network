@@ -3,6 +3,10 @@ provided by the class via a kaggle contest, I have had to remove the test data
 due to school IP rules. All of this code was written by myself, so by school rules it
 is my IP to make public. 
 
+This neural network was found to be 97.5% accurate in identifying which number a 
+hand-written digit was meant to be on kaggle, putting the network in the top 10% of
+my class. 
+
 All of the code is contained in main.py. It uses libraries from Anaconda 2.4.1, 
 using the latest version of Anaconda causes the loadmat("training_data") to crash.
 Anaconda3-2.4.1-Windows-x86_64.exe cane be found here:
